@@ -1,0 +1,1 @@
+{"uuid":"2895fdd5-b673-4507-8734-658662d7fb3d","name":"Maven_TestNg_Framework-master","children":["1acdce5f-ca12-41d3-ac43-965c4bcb6478"],"befores":[{"name":"setting_up_instances","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1649668301966,"stop":1649668301978}],"afters":[],"start":1649668301916,"stop":1649668309587}

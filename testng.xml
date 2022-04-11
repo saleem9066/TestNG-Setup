@@ -1,0 +1,9 @@
+<suite name="Suite" parallel="classes" thread-count="5">
+    <test name="Test Automation">
+        <classes>
+            <class name="org.testcases.MavenTestNGExample"> </class>
+            <class name="org.testcases.MavenTestNGExample2"> </class>
+        </classes>
+
+    </test>
+</suite>

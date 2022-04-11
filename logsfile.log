@@ -1,0 +1,90 @@
+2022-04-10 14:16:45  [BaseTest] (main:) Setting up the instances for properties file
+2022-04-10 14:16:45  [BaseTest] (main:) Setting up the path for log file
+2022-04-10 14:16:45  [BaseTest] (TestNG-test=Test Automation-1:) Setting up the instances for properties file
+2022-04-10 14:16:45  [BaseTest] (TestNG-test=Test Automation-1:) Setting up the path for log file
+2022-04-10 14:16:45  [BaseTest] (TestNG-test=Test Automation-2:) Setting up the instances for properties file
+2022-04-10 14:16:45  [BaseTest] (TestNG-test=Test Automation-2:) Setting up the path for log file
+2022-04-10 14:16:45  [DriverFactory] (TestNG-test=Test Automation-1:) Setting browser value chrome
+2022-04-10 14:16:45  [DriverFactory] (TestNG-test=Test Automation-2:) Setting browser value chrome
+2022-04-10 14:16:49  [DriverFactory] (TestNG-test=Test Automation-1:) Setting browser value
+2022-04-10 14:16:49  [DriverFactory] (TestNG-test=Test Automation-2:) Setting browser value
+2022-04-10 14:17:17  [BaseTest] (TestNG-test=Test Automation-2:) Closing the browser
+2022-04-10 14:17:17  [BaseTest] (TestNG-test=Test Automation-2:) Browser is closed successfully
+2022-04-10 14:17:17  [BaseTest] (TestNG-test=Test Automation-1:) Closing the browser
+2022-04-10 14:17:18  [BaseTest] (TestNG-test=Test Automation-1:) Browser is closed successfully
+2022-04-10 14:17:18  [BaseTest] (TestNG-test=Test Automation-1:) Setting up the instances for properties file
+2022-04-10 14:17:18  [BaseTest] (TestNG-test=Test Automation-1:) Setting up the path for log file
+2022-04-10 14:17:18  [DriverFactory] (TestNG-test=Test Automation-1:) Setting browser value chrome
+2022-04-10 14:17:19  [DriverFactory] (TestNG-test=Test Automation-1:) Setting browser value
+2022-04-10 14:17:25  [BaseTest] (TestNG-test=Test Automation-1:) Closing the browser
+2022-04-10 14:17:25  [BaseTest] (TestNG-test=Test Automation-1:) Browser is closed successfully
+2022-04-10 14:19:31  [BaseTest] (TestNG-test=Test Automation-2:) Setting up the instances for properties file
+2022-04-10 14:19:31  [BaseTest] (TestNG-test=Test Automation-1:) Setting up the instances for properties file
+2022-04-10 14:19:31  [BaseTest] (TestNG-test=Test Automation-1:) Setting up the path for log file
+2022-04-10 14:19:31  [BaseTest] (TestNG-test=Test Automation-2:) Setting up the path for log file
+2022-04-10 14:19:31  [DriverFactory] (TestNG-test=Test Automation-1:) Setting browser value chrome
+2022-04-10 14:19:31  [DriverFactory] (TestNG-test=Test Automation-2:) Setting browser value chrome
+2022-04-10 14:19:35  [DriverFactory] (TestNG-test=Test Automation-1:) Setting browser value
+2022-04-10 14:19:35  [DriverFactory] (TestNG-test=Test Automation-2:) Setting browser value
+2022-04-10 14:19:37  [BaseTest] (TestNG-test=Test Automation-1:) Closing the browser
+2022-04-10 14:19:38  [BaseTest] (TestNG-test=Test Automation-1:) Browser is closed successfully
+2022-04-10 14:19:38  [BaseTest] (TestNG-test=Test Automation-1:) Setting up the instances for properties file
+2022-04-10 14:19:38  [BaseTest] (TestNG-test=Test Automation-1:) Setting up the path for log file
+2022-04-10 14:19:38  [DriverFactory] (TestNG-test=Test Automation-1:) Setting browser value chrome
+2022-04-10 14:19:38  [BaseTest] (TestNG-test=Test Automation-2:) Closing the browser
+2022-04-10 14:19:38  [BaseTest] (TestNG-test=Test Automation-2:) Browser is closed successfully
+2022-04-10 14:19:39  [DriverFactory] (TestNG-test=Test Automation-1:) Setting browser value
+2022-04-10 14:19:47  [BaseTest] (TestNG-test=Test Automation-1:) Closing the browser
+2022-04-10 14:19:47  [BaseTest] (TestNG-test=Test Automation-1:) Browser is closed successfully
+2022-04-11 11:44:50  [BaseTest] (TestNG-test=Test Automation-2:) Setting up the instances for properties file
+2022-04-11 11:44:50  [BaseTest] (TestNG-test=Test Automation-1:) Setting up the instances for properties file
+2022-04-11 11:44:50  [BaseTest] (TestNG-test=Test Automation-1:) Setting up the path for log file
+2022-04-11 11:44:50  [BaseTest] (TestNG-test=Test Automation-2:) Setting up the path for log file
+2022-04-11 11:44:50  [DriverFactory] (TestNG-test=Test Automation-1:) Setting browser value chrome
+2022-04-11 11:44:50  [DriverFactory] (TestNG-test=Test Automation-2:) Setting browser value chrome
+2022-04-11 11:44:57  [DriverFactory] (TestNG-test=Test Automation-1:) Setting browser value
+2022-04-11 11:44:57  [DriverFactory] (TestNG-test=Test Automation-2:) Setting browser value
+2022-04-11 11:44:59  [BaseTest] (TestNG-test=Test Automation-1:) Closing the browser
+2022-04-11 11:44:59  [BaseTest] (TestNG-test=Test Automation-2:) Closing the browser
+2022-04-11 11:44:59  [BaseTest] (TestNG-test=Test Automation-1:) Browser is closed successfully
+2022-04-11 11:44:59  [BaseTest] (TestNG-test=Test Automation-1:) Setting up the instances for properties file
+2022-04-11 11:44:59  [BaseTest] (TestNG-test=Test Automation-1:) Setting up the path for log file
+2022-04-11 11:44:59  [DriverFactory] (TestNG-test=Test Automation-1:) Setting browser value chrome
+2022-04-11 11:44:59  [BaseTest] (TestNG-test=Test Automation-2:) Browser is closed successfully
+2022-04-11 11:45:01  [DriverFactory] (TestNG-test=Test Automation-1:) Setting browser value
+2022-04-11 11:45:06  [BaseTest] (TestNG-test=Test Automation-1:) Closing the browser
+2022-04-11 11:45:06  [BaseTest] (TestNG-test=Test Automation-1:) Browser is closed successfully
+2022-04-11 13:58:29  [BaseTest] (main:) Setting up the instances for properties file
+2022-04-11 13:58:29  [BaseTest] (main:) Setting up the path for log file
+2022-04-11 13:58:29  [DriverFactory] (main:) Setting browser value chrome
+2022-04-11 13:58:36  [DriverFactory] (main:) Setting browser value
+2022-04-11 13:59:05  [BaseTest] (main:) Setting up the instances for properties file
+2022-04-11 13:59:05  [BaseTest] (main:) Setting up the path for log file
+2022-04-11 13:59:05  [DriverFactory] (main:) Setting browser value chrome
+2022-04-11 13:59:08  [DriverFactory] (main:) Setting browser value
+2022-04-11 13:59:09  [BaseTest] (main:) Closing the browser
+2022-04-11 14:06:37  [BaseTest] (main:) Setting up the instances for properties file
+2022-04-11 14:06:37  [BaseTest] (main:) Setting up the path for log file
+2022-04-11 14:06:37  [DriverFactory] (main:) Setting browser value chrome
+2022-04-11 14:06:41  [DriverFactory] (main:) Setting browser value
+2022-04-11 14:08:27  [BaseTest] (main:) Setting up the instances for properties file
+2022-04-11 14:08:27  [BaseTest] (main:) Setting up the path for log file
+2022-04-11 14:08:27  [DriverFactory] (main:) Setting browser value chrome
+2022-04-11 14:08:31  [DriverFactory] (main:) Setting browser value
+2022-04-11 14:16:50  [BaseTest] (main:) Setting up the instances for properties file
+2022-04-11 14:16:50  [BaseTest] (main:) Setting up the path for log file
+2022-04-11 14:16:50  [DriverFactory] (main:) Setting browser value chrome
+2022-04-11 14:16:55  [DriverFactory] (main:) Setting browser value
+2022-04-11 14:16:55  [BaseTest] (main:) Closing the browser
+2022-04-11 14:39:14  [BaseTest] (main:) Setting up the instances for properties file
+2022-04-11 14:39:14  [BaseTest] (main:) Setting up the path for log file
+2022-04-11 14:39:14  [DriverFactory] (main:) Setting browser value chrome
+2022-04-11 14:39:18  [DriverFactory] (main:) Setting browser value
+2022-04-11 14:39:21  [BaseTest] (main:) Closing the browser
+2022-04-11 14:39:21  [BaseTest] (main:) Browser is closed successfully
+2022-04-11 14:41:42  [BaseTest] (main:) Setting up the instances for properties file
+2022-04-11 14:41:42  [BaseTest] (main:) Setting up the path for log file
+2022-04-11 14:41:42  [DriverFactory] (main:) Setting browser value chrome
+2022-04-11 14:41:46  [DriverFactory] (main:) Setting browser value
+2022-04-11 14:41:49  [BaseTest] (main:) Closing the browser
+2022-04-11 14:41:49  [BaseTest] (main:) Browser is closed successfully

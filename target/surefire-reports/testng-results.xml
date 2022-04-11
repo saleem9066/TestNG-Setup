@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="0" passed="0">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Surefire suite" duration-ms="75" started-at="2022-04-10T06:13:58Z" finished-at="2022-04-10T06:13:58Z">
+    <groups>
+    </groups>
+    <test name="Surefire test" duration-ms="75" started-at="2022-04-10T06:13:58Z" finished-at="2022-04-10T06:13:58Z">
+      <class name="org.testcases.BaseTest">
+        <test-method status="PASS" signature="setting_up_instances()[pri:0, instance:org.testcases.BaseTest@18be83e4]" name="setting_up_instances" is-config="true" duration-ms="72" started-at="2022-04-10T06:13:58Z" finished-at="2022-04-10T06:13:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setting_up_instances -->
+      </class> <!-- org.testcases.BaseTest -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>
